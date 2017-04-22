@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polymorphism", "polymorphism\polymorphism.vcproj", "{AC0C20C4-30B1-4244-8683-3DD1DE43958D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0C20C4-30B1-4244-8683-3DD1DE43958D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AC0C20C4-30B1-4244-8683-3DD1DE43958D}.Debug|Win32.Build.0 = Debug|Win32
+		{AC0C20C4-30B1-4244-8683-3DD1DE43958D}.Release|Win32.ActiveCfg = Release|Win32
+		{AC0C20C4-30B1-4244-8683-3DD1DE43958D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
